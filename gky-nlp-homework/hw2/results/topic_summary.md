@@ -1,4 +1,4 @@
-# 🧠 Topic Modeling Özeti
+# Topic Modeling Özeti
 
 Bu belgede, LDA algoritması ile elde edilen topic'lerin anahtar kelimeleri ve bunlara karşılık gelen anlamlı yorumlar listelenmiştir. Her topic, öne çıkan anahtar kelimeler analiz edilerek elle adlandırılmıştır.
 
