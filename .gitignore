@@ -1,0 +1,6 @@
+# Ignore all files in the CNN-DailyMail/results directory
+gyk-nlp-homework/CNN-DailyMail/results/*
+gyk-nlp-homework/CNN-DailyMail/saved_model
+gyk-nlp-homework/CNN-DailyMail/validation.csv
+gyk-nlp-homework/CNN-DailyMail/test.csv
+gyk-nlp-homework/CNN-DailyMail/train.csv

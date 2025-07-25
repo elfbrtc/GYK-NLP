@@ -1,0 +1,13 @@
+torch>=2.0.0+cu121
+transformers>=4.21.0
+datasets>=2.0.0
+pandas>=1.3.0
+numpy>=1.21.0
+rouge-score>=0.1.2
+nltk>=3.6
+scikit-learn>=1.0.0
+tqdm>=4.62.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+sentencepiece>=0.1.0
+accelerate>=0.26.0 

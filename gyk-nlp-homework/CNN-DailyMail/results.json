@@ -1,0 +1,34 @@
+{
+  "rouge_scores": {
+    "rouge1": 0.41764306323516154,
+    "rouge2": 0.1863003490478919,
+    "rougeL": 0.28158651949555674
+  },
+  "examples": [
+    {
+      "original_text": "comedian jenny eclair travelled with her other half on a painting in venus break with flavours . there comes a time in a womans life when beach holidays just dont cut it any longer, when lying on gold...",
+      "reference_summary": "the comedian stayed with flavours who offer a painting in venice break . jenny and her partner geof stayed at the farmhouse villa bianchi . days involved sitting in medieval market towns with a brush and prosecco .",
+      "predicted_summary": "jenny eclair travelled with her other half on a painting in venus break with flavours. she was in the latter camp and ive got the paintings to prove it. ibiza is divided into those who still want to give it large, and those who want their inner artist."
+    },
+    {
+      "original_text": "a woman of arab and jewish descent who was stripsearched at a detroitarea airport has reached a settlement in a lawsuit filed on her behalf, the american civil liberties union said tuesday. the federa...",
+      "reference_summary": "the federal government will give shoshana hebshi 40,000 as compensation for being ethnically profiled . hebshi, who has a jewish mother and saudi arabian father, has said she was discriminated against based on her dark complexion . hebshi was detained along with two indian men she was seated next to . people do not forfeit their constitutional rights when they step onto an airplane, said aclu attorney rachel goodman .",
+      "predicted_summary": "shoshana hebshi, of sylvania, ohio, was stripearched at a detroitarea airport on the 10th anniversary of 911. armed agents forced her from a plane, made her undress during a search and held her for hours. frontier airlines, transportation security administration and wayne county airport authority were named in the federal lawsuit."
+    },
+    {
+      "original_text": "world no 1 novak djokovic has apologised to the startled ball boy caught in the crossfire of a tirade at his support team during his win over andy murray in sundays miami open final. djokovic lost his...",
+      "reference_summary": "novak djokovic beat andy murray 76 46 60 in miami open 2015 final . djokovic lost his cool after losing the second set to the brit in florida . world no 1 djokovic shouted at his support team next to a scared ball boy . after seeing the replay, the serbian posted an apology video on facebook . click here for all the latest news from the world of tennis .",
+      "predicted_summary": "novak djokovic apologised to a ball boy caught in a tirade at his support team. the world no 1 lost his cool at the end of the second set to andy murray. he snatched a towel from the youngster before umpire damien dumusois gave him a code violation."
+    },
+    {
+      "original_text": "cnnisis on wednesday released more than 200 yazidis, a minority group whose members were killed, captured and displaced when the islamist terror organization overtook their towns in northern iraq last...",
+      "reference_summary": "most of those released were women and children . freed yazidis sent to capital of iraqs kurdish region .",
+      "predicted_summary": "more than 200 yazidis were released, peshmerga commander says. most of those released were women and children; the rest were ill or elderly. isis previously released scores of others largely children and the elderly since attacking the groups towns last year."
+    },
+    {
+      "original_text": "hillary clintons security detail arrived at a suburban des moines, iowa fruit processing company on tuesday with an added vehicle  a second scooby. after her signature oversize black chevy conversion ...",
+      "reference_summary": "second modified, armored van spotted near des moines, iowa alongside the one that hillary clinton travels in . visually identical black vehicles biggest difference is the color of their new york license plates . one is a chevy and the other a gmc but they are mechanically identical and one was seen using secret servicefitted red and blue lights . van dubbed scooby in homage to the scoobydoo cartoon show brought clinton to iowa from her new york house . scoobytwo made its debut in norwalk, iowa on wednesday outside a fruit processing plant where clinton made a scripted appearance .",
+      "predicted_summary": "a visually identical gmc van drove up to the building with a nearly identical secret service escort vehicle. both armored vehicles have raised roofs, deeptinted windows and new york license plates. while the original van the one nicknamed scooby after the cartoon show sports a mustardyellow new york tag, the second has blue and white plates of different design."
+    }
+  ]
+}
