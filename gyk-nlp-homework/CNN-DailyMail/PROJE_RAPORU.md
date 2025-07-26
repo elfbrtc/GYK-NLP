@@ -90,10 +90,10 @@ Tam eğitim sonrasında beklenen skorlar:
 
 ### Ana Dosyalar:
 1. **text_summarization.py**: Ana Python script
-2. **text_summarization_notebook.ipynb**: Jupyter Notebook versiyonu
-3. **demo.py**: Hızlı test için demo script
-4. **requirements.txt**: Gerekli kütüphaneler
-5. **README.md**: Proje dokümantasyonu
+2. **demo.py**: Hızlı test için demo script
+3. **requirements.txt**: Gerekli kütüphaneler
+4. **README.md**: Proje dokümantasyonu
+5. **PROJE_RAPORU.md**: Detaylı proje raporu
 
 ### Veri Dosyaları:
 - **train.csv**: Eğitim verisi (~287K örnek)
@@ -110,11 +110,6 @@ python demo.py
 ### Tam Eğitim:
 ```bash
 python text_summarization.py
-```
-
-### Jupyter Notebook:
-```bash
-jupyter notebook text_summarization_notebook.ipynb
 ```
 
 ## 🎓 Öğrenilen Dersler
@@ -180,7 +175,6 @@ jupyter notebook text_summarization_notebook.ipynb
 5. **Geliştirme süreci raporu**: ✅ (Bu dosya)
 
 ### ✅ Ek Bileşenler:
-- Jupyter Notebook versiyonu
 - Demo script'i
 - Detaylı README
 - Requirements dosyası

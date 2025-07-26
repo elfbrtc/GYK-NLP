@@ -46,14 +46,15 @@ Bu sistem, haber metinlerinden otomatik olarak özgün özetler çıkaran bir tr
 - Sequence truncation ve padding
 - Prefix ekleme ("summarize: ")
 
-## 📁 Dosya Yapısı
+## �� Dosya Yapısı
 
 ```
-hw5/
+CNN-DailyMail/
 ├── text_summarization.py          # Ana Python script
-├── text_summarization_notebook.ipynb  # Jupyter Notebook
+├── demo.py                        # Hızlı test için demo script
 ├── requirements.txt               # Gerekli kütüphaneler
 ├── README.md                      # Bu dosya
+├── PROJE_RAPORU.md               # Detaylı proje raporu
 ├── train.csv                      # Eğitim verisi
 ├── validation.csv                 # Doğrulama verisi
 ├── test.csv                       # Test verisi
@@ -70,16 +71,16 @@ hw5/
 pip install -r requirements.txt
 ```
 
-### 2. Python Script ile Çalıştırma
+### 2. Hızlı Test (Demo)
+
+```bash
+python demo.py
+```
+
+### 3. Tam Eğitim
 
 ```bash
 python text_summarization.py
-```
-
-### 3. Jupyter Notebook ile Çalıştırma
-
-```bash
-jupyter notebook text_summarization_notebook.ipynb
 ```
 
 ## 📈 Sonuçlar
